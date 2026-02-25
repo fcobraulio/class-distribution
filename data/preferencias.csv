@@ -1,53 +1,53 @@
 nome_professor,preferencia,disciplina
-PROFESSOR1,1,Instalação e Config. de Servidores
-PROFESSOR1,2,Design Web
-PROFESSOR1,3,Introdução à Lógica e Programação
-PROFESSOR1,4,Redes de computadores
-PROFESSOR1,5,Gestão e Empreendedorismo
-PROFESSOR1,6,Análise e Projeto Orientada a Objetos
-PROFESSOR1,7,Design Web
-PROFESSOR1,8,Banco de Dados
-PROFESSOR1,9,Educação em Tecnologias Digitais
-PROFESSOR1,10,Autoria Web
-PROFESSOR1,11,Princípios de Design
-PROFESSOR1,12,Tóp. Específicos em Inf. p/ Internet II
-PROFESSOR1,13,Instalação e Config. de Servidores
-PROFESSOR2,1,Instalação e Config. de Servidores
-PROFESSOR2,2,Design Web
-PROFESSOR2,3,Programação de Aplicação Web
-PROFESSOR2,4,Banco de Dados
-PROFESSOR2,5,Análise e Projeto Orientada a Objetos
-PROFESSOR2,6,Gestão e Empreendedorismo
-PROFESSOR2,7,Autoria Web
-PROFESSOR2,8,Educação em Tecnologias Digitais
-PROFESSOR2,9,Introdução à Lógica e Programação
-PROFESSOR2,10,Princípios de Design
-PROFESSOR2,11,Tóp. Específicos em Inf. p/ Internet II
-PROFESSOR2,12,Design Web
-PROFESSOR2,13,Redes de computadores
-PROFESSOR3,1,Instalação e Config. de Servidores
-PROFESSOR3,2,Design Web
-PROFESSOR3,3,Banco de Dados
-PROFESSOR3,4,Tóp. Específicos em Inf. p/ Internet II
+PROFESSOR1,1,Princípios de Design
+PROFESSOR1,2,Análise e Projeto Orientada a Objetos
+PROFESSOR1,3,Tóp. Específicos em Inf. p/ Internet II
+PROFESSOR1,4,Design Web
+PROFESSOR1,5,Educação em Tecnologias Digitais
+PROFESSOR1,6,Programação de Aplicação Web
+PROFESSOR1,7,Autoria Web
+PROFESSOR1,8,Análise e Projeto Orientada a Objetos
+PROFESSOR1,9,Redes de computadores
+PROFESSOR1,10,Introdução à Lógica e Programação
+PROFESSOR1,11,Banco de Dados
+PROFESSOR1,12,Instalação e Config. de Servidores
+PROFESSOR1,13,Gestão e Empreendedorismo
+PROFESSOR2,1,Princípios de Design
+PROFESSOR2,2,Análise e Projeto Orientada a Objetos
+PROFESSOR2,3,Princípios de Design
+PROFESSOR2,4,Análise e Projeto Orientada a Objetos
+PROFESSOR2,5,Design Web
+PROFESSOR2,6,Tóp. Específicos em Inf. p/ Internet II
+PROFESSOR2,7,Programação de Aplicação Web
+PROFESSOR2,8,Redes de computadores
+PROFESSOR2,9,Programação Orientada a Objetos
+PROFESSOR2,10,Instalação e Config. de Servidores
+PROFESSOR2,11,Introdução à Lógica e Programação
+PROFESSOR2,12,Educação em Tecnologias Digitais
+PROFESSOR2,13,Autoria Web
+PROFESSOR3,1,Princípios de Design
+PROFESSOR3,2,Análise e Projeto Orientada a Objetos
+PROFESSOR3,3,Programação de Aplicação Web
+PROFESSOR3,4,Redes de computadores
 PROFESSOR3,5,Design Web
-PROFESSOR3,6,Instalação e Config. de Servidores
-PROFESSOR3,7,Educação em Tecnologias Digitais
+PROFESSOR3,6,Introdução à Lógica e Programação
+PROFESSOR3,7,Análise e Projeto Orientada a Objetos
 PROFESSOR3,8,Autoria Web
 PROFESSOR3,9,Programação Orientada a Objetos
-PROFESSOR3,10,Gestão e Empreendedorismo
-PROFESSOR3,11,Análise e Projeto Orientada a Objetos
-PROFESSOR3,12,Programação de Aplicação Web
-PROFESSOR3,13,Princípios de Design
-PROFESSOR4,1,Instalação e Config. de Servidores
-PROFESSOR4,2,Design Web
-PROFESSOR4,3,Autoria Web
-PROFESSOR4,4,Introdução à Lógica e Programação
-PROFESSOR4,5,Banco de Dados
-PROFESSOR4,6,Princípios de Design
-PROFESSOR4,7,Redes de computadores
+PROFESSOR3,10,Banco de Dados
+PROFESSOR3,11,Princípios de Design
+PROFESSOR3,12,Educação em Tecnologias Digitais
+PROFESSOR3,13,Gestão e Empreendedorismo
+PROFESSOR4,1,Princípios de Design
+PROFESSOR4,2,Análise e Projeto Orientada a Objetos
+PROFESSOR4,3,Gestão e Empreendedorismo
+PROFESSOR4,4,Autoria Web
+PROFESSOR4,5,Redes de computadores
+PROFESSOR4,6,Tóp. Específicos em Inf. p/ Internet II
+PROFESSOR4,7,Educação em Tecnologias Digitais
 PROFESSOR4,8,Instalação e Config. de Servidores
-PROFESSOR4,9,Gestão e Empreendedorismo
+PROFESSOR4,9,Introdução à Lógica e Programação
 PROFESSOR4,10,Análise e Projeto Orientada a Objetos
 PROFESSOR4,11,Programação Orientada a Objetos
 PROFESSOR4,12,Programação de Aplicação Web
-PROFESSOR4,13,Educação em Tecnologias Digitais
+PROFESSOR4,13,Design Web

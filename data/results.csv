@@ -1,18 +1,18 @@
 disciplina,periodo,turma,quantidade,semestre,professor
-Introdução à Lógica e Programação,1º Ano,INF (Mat),4,1,PROFESSOR1
-Programação de Aplicação Web,3º Ano,INF (Vesp),4,1,PROFESSOR2
-Introdução à Lógica e Programação,1º Ano,INF (Vesp),4,1,PROFESSOR4
-Redes de computadores,2º Ano,INF (Mat),4,1,PROFESSOR1
-Programação Orientada a Objetos,2º Ano,INF (Mat),4,1,PROFESSOR3
-Educação em Tecnologias Digitais,1º Ano,INF (Mat),2,1,PROFESSOR3
-Educação em Tecnologias Digitais,1º Ano,ADM (Vesp),2,1,PROFESSOR3
-Educação em Tecnologias Digitais,1º Ano,INF (Vesp),2,1,PROFESSOR2
-Educação em Tecnologias Digitais,1º Ano,ADM (Mat),2,1,PROFESSOR2
+Introdução à Lógica e Programação,1º Ano,INF (Mat),4,1,PROFESSOR3
+Programação de Aplicação Web,3º Ano,INF (Vesp),4,1,PROFESSOR3
+Introdução à Lógica e Programação,1º Ano,INF (Vesp),4,1,PROFESSOR3
+Redes de computadores,2º Ano,INF (Mat),4,1,PROFESSOR4
+Programação Orientada a Objetos,2º Ano,INF (Mat),4,1,PROFESSOR2
+Educação em Tecnologias Digitais,1º Ano,INF (Mat),2,1,PROFESSOR1
+Educação em Tecnologias Digitais,1º Ano,ADM (Vesp),2,1,PROFESSOR1
+Educação em Tecnologias Digitais,1º Ano,INF (Vesp),2,1,PROFESSOR1
+Educação em Tecnologias Digitais,1º Ano,ADM (Mat),2,1,PROFESSOR1
 Autoria Web,1º Ano,INF (Mat),2,1,PROFESSOR4
 Princípios de Design,1º Ano,INF (Vesp),2,1,PROFESSOR4
-Princípios de Design,1º Ano,INF (Mat),2,1,PROFESSOR4
+Princípios de Design,1º Ano,INF (Mat),2,1,PROFESSOR1
 Autoria Web,1º Ano,INF (Vesp),2,1,PROFESSOR4
-Banco de Dados,2º Ano,INF (Mat),2,1,PROFESSOR3
+Banco de Dados,2º Ano,INF (Mat),2,1,PROFESSOR1
 Análise e Projeto Orientada a Objetos,2º Ano,INF (Mat),2,1,PROFESSOR2
-Gestão e Empreendedorismo,3º Ano,INF (Vesp),2,1,PROFESSOR1
+Gestão e Empreendedorismo,3º Ano,INF (Vesp),2,1,PROFESSOR4
 Instalação e Config. de Servidores,3º Ano,INF (Vesp),2,1,PROFESSOR2

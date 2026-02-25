@@ -133,15 +133,38 @@ def distribuir_turmas(semestre):
 
 
 def main():
-    parser = argparse.ArgumentParser()
-    parser.add_argument("semestre", type=int, choices=[1, 2])
+    parser = argparse.ArgumentParser(
+        description="Distribuição de turmas entre professores"
+    )
+
+    parser.add_argument(
+        "semestre",
+        type=int,
+        choices=[1, 2],
+        help="Semestre letivo (1 ou 2)"
+    )
+
+    parser.add_argument(
+        "--gerar-preferencias",
+        action="store_true",
+        help="Gera um novo arquivo preferencias.csv aleatório"
+    )
+
     args = parser.parse_args()
 
     if not os.path.exists(DATA_DIR):
         os.makedirs(DATA_DIR)
 
-    if not os.path.exists(PREF_FILE):
+    # Se o usuário pediu para gerar novas preferências
+    if args.gerar_preferencias:
         gerar_preferencias_aleatorias()
+
+    # Se não existe arquivo e não pediu para gerar → erro claro
+    if not os.path.exists(PREF_FILE):
+        raise FileNotFoundError(
+            "Arquivo preferencias.csv não encontrado. "
+            "Use --gerar-preferencias para criar um automaticamente."
+        )
 
     distribuir_turmas(args.semestre)
 
